@@ -47,7 +47,7 @@ devDependencies:
     specifier: ^10.4.15
     version: 10.4.15(postcss@8.4.29)
   eslint:
-    specifier: ^8.45.0
+    specifier: ^8.48.0
     version: 8.48.0
   eslint-plugin-react:
     specifier: ^7.32.2
